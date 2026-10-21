@@ -1,0 +1,21 @@
+[21:02:51] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[21:02:58] [ServerMain/INFO]: Loaded 1585 recipes
+[21:02:58] [ServerMain/INFO]: Loaded 1688 advancements
+[21:02:58] [Server thread/INFO]: Starting minecraft server version 26.2
+[21:02:58] [Server thread/INFO]: Loading properties
+[21:02:58] [Server thread/INFO]: Default game type: SURVIVAL
+[21:02:58] [Server thread/INFO]: Generating keypair
+[21:02:58] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:02:59] [Server thread/INFO]: Preparing level "world"
+[21:03:01] [Server thread/INFO]: Loading 0 persistent chunks...
+[21:03:01] [Server thread/INFO]: Preparing spawn area: 100%
+[21:03:01] [Server thread/INFO]: Time elapsed: 28 ms
+[21:03:01] [Server thread/INFO]: Done (1.806s)! For help, type "help"
+[21:03:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21:03:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[21:03:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[21:03:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:03:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:03:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:03:01] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[21:04:01] [Server thread/INFO]: Server empty for 60 seconds, pausing
