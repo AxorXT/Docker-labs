@@ -44,7 +44,7 @@ jobs:
           compression-level: 0
 
   importar-windows:
-    runs-on: windows-latest
+    runs-on: Windows
     needs: construir
 
     steps:
